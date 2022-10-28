@@ -1,0 +1,60 @@
+.titulo{
+    font-family: monospace;
+    font-size: 16px;
+    position: absolute;
+    top: 5rem;
+    left: 31.3rem;
+}
+
+.quadradinho{
+    width: 7rem;
+    height: 7rem;
+    background-color: pink;
+    border: none;
+    position: relative;
+}
+
+.quadradinho:hover{
+    background-color: rgb(255, 167, 196);
+    cursor: pointer;
+}
+
+.quadradinho:active{
+    background-color: rgb(253, 137, 176);
+}
+
+.linhaUM{
+    position: relative;
+    top: 7rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.linhaDOIS{
+    position: relative;
+    top: 8rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.linhaTRES{
+    position: relative;
+    top: 9rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.reset{
+    width: 4rem;
+    height: 2rem;
+    position: absolute;
+}
