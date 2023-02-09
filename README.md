@@ -1,1 +1,3 @@
-Projeto inicial de jogo da velha em Angular.
+# Projeto finalizado do curso de Desenvolvimento de Sistemas
+
+Jogo "Tic-Ta-Toe" usando o framework Angular
